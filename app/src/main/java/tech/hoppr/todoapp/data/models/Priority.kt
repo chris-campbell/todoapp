@@ -1,4 +1,4 @@
-package tech.hoppr.todoapp.data
+package tech.hoppr.todoapp.data.models
 
 enum class Priority {
     HIGH,
